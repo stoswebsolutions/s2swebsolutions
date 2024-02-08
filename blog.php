@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <title>Blog - </title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <meta content="Blog" name="keywords">
+    <meta content="Blog" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -55,10 +55,10 @@ background-color: #1FBCE9!important;
         <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                    <h1 class="display-4 text-white animated zoomIn">Blog Grid</h1>
+                    <h1 class="display-4 text-white animated zoomIn">Blog </h1>
                     <a href="" class="h5 text-white">Home</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Blog Grid</a>
+                    <a href="" class="h5 text-white">Blog </a>
                 </div>
             </div>
         </div>

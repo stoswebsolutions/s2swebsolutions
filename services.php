@@ -5,8 +5,20 @@
     <meta charset="utf-8">
     <title>Services - S2S Web Solutions</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+     <meta content="S2S Web Solutions, Web Development at Karimnagar ,
+     Web Hosting at Karimnagar ,
+     android  app developer in karimnagar,
+     Software Development in Karimnagar ,
+     SEO Company in karimnagar ,
+     Android Development in Karimnagar ,
+      mobile app development in karimnagar,
+      digital marketing in karimnagar,
+ logo designer in karimnagar,
+ ecommerce website in Karimnagar,
+ software companies in karimnagar
+
+     web design, company, Karimnagar, web designers in Karimnagar, web hosting, freelancer, php developer in Karimnagar, wordpress, near, web designing company, best company, Website Designing Company Karimnagar, Karimnagar Website Design, Website Design Karimnagar, Web designing Karimnagar, Website Design Karimnagar, Web Design Company, web designing Services, web design, web design company Karimnagar, corporate website designing, Web Development Company Karimnagar, web designing in india, Web Designers, website designer in Karimnagar" name="keywords">
+    <meta content="S2S Web Solutions is best website design , Website development , Mobile app development and software applicatins development company in india" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -101,7 +113,7 @@ background-color: #1FBCE9!important;
                         </div>
                         <h4 class="mb-3">Web Designing</h4>
                         <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="website-design-company-at-Karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -113,7 +125,7 @@ background-color: #1FBCE9!important;
                         </div>
                         <h4 class="mb-3">Web Development</h4>
                         <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="website-development-company-at-karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -125,7 +137,7 @@ background-color: #1FBCE9!important;
                         </div>
                         <h4 class="mb-3">Web Hosting</h4>
                         <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="web-hosting-service-at-karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -137,7 +149,7 @@ background-color: #1FBCE9!important;
                         </div>
                         <h4 class="mb-3">Logo Design</h4>
                         <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="logo-design-at-karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -149,7 +161,7 @@ background-color: #1FBCE9!important;
                         </div>
                         <h4 class="mb-3">Digital Marketing</h4>
                         <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="digital-marketing-at-Karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -162,7 +174,7 @@ background-color: #1FBCE9!important;
                         </div>
                         <h4 class="mb-3">SEO Optimization</h4>
                         <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="seo-company-at-karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -178,7 +190,7 @@ background-color: #1FBCE9!important;
                         </div>
                         <h4 class="mb-3">App Development</h4>
                         <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="mobile-app-development-at-karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -202,7 +214,7 @@ background-color: #1FBCE9!important;
                         </div>
                         <h4 class="mb-3">Responsive Website Design</h4>
                         <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="ecommerce-website-design-at-karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -214,7 +226,7 @@ background-color: #1FBCE9!important;
                         </div>
                         <h4 class="mb-3">Content Management System</h4>
                         <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="cms-website-design-at-karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -226,7 +238,7 @@ background-color: #1FBCE9!important;
                         </div>
                         <h4 class="mb-3">Digital Marketing</h4>
                         <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="digital-marketing-at-Karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -239,7 +251,7 @@ background-color: #1FBCE9!important;
                         </div>
                         <h4 class="mb-3">SEO Optimization</h4>
                         <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="seo-company-at-karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>

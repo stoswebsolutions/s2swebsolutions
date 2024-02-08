@@ -5,8 +5,20 @@
     <meta charset="utf-8">
     <title>S2S Web Solutions</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+   <meta content="S2S Web Solutions, Web Development in Karimnagar ,
+     Web Hosting in Karimnagar ,
+     android  app developer in karimnagar,
+     Software Development in Karimnagar ,
+     SEO Company in karimnagar ,
+     Android Development in Karimnagar ,
+      mobile app development in karimnagar,
+      digital marketing in karimnagar,
+ logo designer in karimnagar,
+ ecommerce website in Karimnagar,
+ software companies in karimnagar
+
+     web design, company, Karimnagar, web designers in Karimnagar, web hosting, freelancer, php developer in Karimnagar, wordpress, near, web designing company, best company, Website Designing Company Karimnagar, Karimnagar Website Design, Website Design Karimnagar, Web designing Karimnagar, Website Design Karimnagar, Web Design Company, web designing Services, web design, web design company Karimnagar, corporate website designing, Web Development Company Karimnagar, web designing in india, Web Designers, website designer in Karimnagar" name="keywords">
+    <meta content="S2S Web Solutions is best website design , Website development , Mobile app development and software applicatins development company in india" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -89,8 +101,8 @@ background-color: #1FBCE9!important;
                             <h1 class="display-1 text-white mb-md-4 animated zoomIn">at just Rs.8,000 </h1>
 							<p>We use Word Press to create E-Commerce websites.
 Word Press supports plug-in modules & Third Party Plug-In, using which we set our own special functions</p>
-                            <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
-                            <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
+                            <a href="quote.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
+                            <a href="contact.php" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                         </div>
                     </div>
                 </div>
@@ -204,7 +216,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                             <h4 class="text-primary mb-0">+91 9703180922</h4>
                         </div>
                     </div>
-                    <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Request A Quote</a>
+                    <a href="quote.php" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Request A Quote</a>
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
@@ -287,7 +299,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                         </div>
                         <h4 class="mb-3">Ecommerce Website Design</h4>
                         <p class="m-0">E-commerce allows you to transport your items to any location in the globe, without regard to demographics or time zones.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="ecommerce-website-design-at-karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -299,7 +311,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                         </div>
                         <h4 class="mb-3">Responsive Website Design</h4>
                         <p class="m-0">Responsive web design enables the use of technology and methodologies to create a website that automatically adjusts.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="responsive-web-design-at-karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -311,7 +323,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                         </div>
                         <h4 class="mb-3">Logo Design</h4>
                         <p class="m-0">Create a professional logo to represent your company. At an cheap fee, you may create your own distinctive logo using the registration option. Which is the most essential visual identity of your brand</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="logo-design-at-karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -323,7 +335,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                         </div>
                         <h4 class="mb-3">Mobile App Development</h4>
                         <p class="m-0">Our mobile app development firm creates unique mobile application solutions for clients based on their specifications. Whether you are a startup.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="mobile-app-development-at-karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -335,7 +347,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                         </div>
                         <h4 class="mb-3">SEO Optimization</h4>
                         <p class="m-0">Search engine optimization (SEO) is the process of increasing the quality and quantity of visitors to a website using search engines. SEO focuses on unpaid traffic, not direct or sponsored traffic.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="seo-company-at-arimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -347,18 +359,12 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                         </div>
                         <h4 class="mb-3">Digital Marketing</h4>
                         <p class="m-0">The ultimate goal of any website is to effectively sell the company's products and services using internet tools.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="">
+                        <a class="btn btn-lg btn-primary rounded" href="digital-marketing-at-Karimnagar.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
-               <!-- <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
-                    <div class="position-relative bg-primary2 rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-5">
-                        <h3 class="text-white mb-3">Call Us For Quote</h3>
-                        <p class="text-white mb-3">Clita ipsum magna kasd rebum at ipsum amet dolor justo dolor est magna stet eirmod</p>
-                        <h2 class="text-white mb-0">+012 345 6789</h2>
-                    </div>
-                </div>-->
+               
             </div>
         </div>
     </div>
@@ -394,7 +400,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
 							<div class="d-flex justify-content-between mb-3"><span>Responsive Design</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <div class="d-flex justify-content-between mb-3"><span>SEO Friendly URLS</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <div class="d-flex justify-content-between mb-2"><span>24/7 Support</span><i class="fa fa-check text-primary pt-1"></i></div>
-                            <a href="" class="btn btn-primary py-2 px-4 mt-4">Order Now</a>
+                            <a href="contact.php" class="btn btn-primary py-2 px-4 mt-4">Order Now</a>
                         </div>
                     </div>
                 </div>
@@ -416,7 +422,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                             
 							<div class="d-flex justify-content-between mb-3"><span>Payment Gateway</span><i class="fa fa-check text-primary pt-1"></i></div>
 							<div class="d-flex justify-content-between mb-2"><span>24/7 Support</span><i class="fa fa-check text-primary pt-1"></i></div>
-                            <a href="" class="btn btn-primary py-2 px-4 mt-4">Order Now</a>
+                            <a href="contact.php" class="btn btn-primary py-2 px-4 mt-4">Order Now</a>
                         </div>
                     </div>
                 </div>
@@ -436,7 +442,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                             <div class="d-flex justify-content-between mb-3"><span>Responsive Layout</span><i class="fa fa-check text-primary pt-1"></i></div>
 							 <div class="d-flex justify-content-between mb-3"><span>Live Chat Integration</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <div class="d-flex justify-content-between mb-2"><span>24/7 Support</span><i class="fa fa-check text-primary pt-1"></i></div>
-                            <a href="" class="btn btn-primary py-2 px-4 mt-4">Order Now</a>
+                            <a href="contact.php" class="btn btn-primary py-2 px-4 mt-4">Order Now</a>
                         </div>
                     </div>
                 </div>
@@ -445,7 +451,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
     </div>
 	 <div class="row">
                <div class="col-md-12 text-center">
-                  <a href="projects.html" class="btn btn-primary tw-mt-140">All Price</a>
+                  <a href="price.php" class="btn btn-primary tw-mt-140">All Price</a>
                </div>
             </div>
     <!-- Pricing Plan End -->

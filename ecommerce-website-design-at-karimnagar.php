@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <title>Ecommerce Website Design at Karimnagar</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <meta content="Ecommerce Website Design at Karimnagar" name="keywords">
+    <meta content="Ecommerce Website Design at Karimnagar" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -45,26 +45,7 @@ background-color: #1FBCE9!important;
 
 
     <!-- Topbar Start -->
-    <div class="container-fluid bg-dark px-5 d-none d-lg-block">
-        <div class="row gx-0">
-            <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
-                <div class="d-inline-flex align-items-center" style="height: 45px;">
-                    <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>123 Street, New York, USA</small>
-                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+012 345 6789</small>
-                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@example.com</small>
-                </div>
-            </div>
-            <div class="col-lg-4 text-center text-lg-end">
-                <div class="d-inline-flex align-items-center" style="height: 45px;">
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-twitter fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-instagram fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href=""><i class="fab fa-youtube fw-normal"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include 'topbar.php'; ?>
     <!-- Topbar End -->
 
 
@@ -115,14 +96,12 @@ background-color: #1FBCE9!important;
                         <h5 class="fw-bold text-primary text-uppercase">Ecommerce Website Design</h5>
                         <h1 class="mb-0">at Karimnagar</h1>
                     </div>
-                    <p class="mb-4"><p><span style="font-size:12pt"><span style="font-family:Roboto,sans-serif"><span style="color:#111111">Logo design is the creative process of developing a unique symbol or graphic representation for a brand, company, organization, or individual. It serves as the face of your brand, making it the first point of contact between your business and potential customers. A well-designed logo goes beyond being a mere graphic; it plays several crucial roles:</span></span></span></p>
+                    <p class="mb-4"><p><span style="font-size:12pt"><span style="font-family:Roboto,sans-serif"><span style="color:#111111">Attractive web design plays an essential role in successful online sales and marketing. Being a unique eCommerce Web Design & Development company in Karimnagar with immense contribution to the market, we at s2s web solutions, are known to bring in specialists who are able to provide Custom eCommerce Services in Karimnagar, such as designing one of a kind mobile-friendly e-commerce websites, optimized to increase sales and conversions. Such designs are tailored to your business and budget. You might even say it enhances your store's unique style and brand!/span></span></span></p>
 
-<ol>
-	<li style="list-style-type:decimal"><span style="font-size:12pt"><span style="font-family:Roboto,sans-serif"><span style="color:#111111">Identification: A logo is a symbol that combines words, images, and colors to identify a brand or product. It distinguishes your entity from others and helps people recognize who you are and what you stand for</span></span></span></li>
-	<li style="list-style-type:decimal"><span style="font-size:12pt"><span style="font-family:Roboto,sans-serif"><span style="color:#111111">First Impression: Just like in real life, you never get a second chance to make a good first impression. Your logo is often the first thing noticed by your audience, so it&rsquo;s essential to create a memorable one that grabs attention and sparks interest.</span></span></span></li>
-	<li style="list-style-type:decimal"><span style="font-size:12pt"><span style="font-family:Roboto,sans-serif"><span style="color:#111111">Differentiation: In a sea of content and advertisements, a remarkable logo should be distinctive enough to stand out in consumers&rsquo; minds. Research your competitors and their branding to position your brand uniquely.</span></span></span></li>
-	<li style="list-style-type:decimal"><span style="font-size:12pt"><span style="font-family:Roboto,sans-serif"><span style="color:#111111">Brand Identity: Your logo shapes your brand&rsquo;s identity. It establishes what your brand stands for and how it will be perceived. When done right, it infuses the spirit of your brand across all visual elements and marketing channels</span></span></span></li>
-</ol>
+<p>
+	Do Not Settle For A Money Leaking Ecommerce Website<br>
+If you are not selling online, you are losing your potential market. Its a well known fact that e-commerce is hot sector and it's getting lot of traction. Most of the audience online expect online ordering service from even the smallest businesses. Reports show that 65% expect small businesses to offer online shopping. With so many small and medium businesses already engaging in e-commerce, you could already be losing out to your competitors if you don’t sell online. Even people who don’t intend to shop online still research product information on a business’ website — 78% claimed they always compare prices and specifications online before purchasing a product in a store
+</p>
 
 <p>&nbsp;</p>
 </p>
