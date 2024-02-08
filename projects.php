@@ -5,8 +5,21 @@
     <meta charset="utf-8">
     <title>Projects - S2S Web Solutions</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+     <meta content="S2S Web Solutions, Web Development at Karimnagar ,
+     Web Hosting at Karimnagar ,
+     android  app developer in karimnagar,
+     Software Development in Karimnagar ,
+     SEO Company in karimnagar ,
+     Android Development in Karimnagar ,
+      mobile app development in karimnagar,
+      digital marketing in karimnagar,
+ logo designer in karimnagar,
+ ecommerce website in Karimnagar,
+ software companies in karimnagar
+
+     web design, company, Karimnagar, web designers in Karimnagar, web hosting, freelancer, php developer in Karimnagar, wordpress, near, web designing company, best company, Website Designing Company Karimnagar, Karimnagar Website Design, Website Design Karimnagar, Web designing Karimnagar, Website Design Karimnagar, Web Design Company, web designing Services, web design, web design company Karimnagar, corporate website designing, Web Development Company Karimnagar, web designing in india, Web Designers, website designer in Karimnagar" name="keywords">
+    <meta content="S2S Web Solutions is best website design , Website development , Mobile app development and software applicatins development company in india" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -56,10 +69,10 @@ background-color: #1FBCE9!important;
         <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                    <h1 class="display-4 text-white animated zoomIn">Prices</h1>
+                    <h1 class="display-4 text-white animated zoomIn">Projects </h1>
                     <a href="" class="h5 text-white">Home</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Prices</a>
+                    <a href="" class="h5 text-white">Projects</a>
                 </div>
             </div>
         </div>
@@ -90,8 +103,8 @@ background-color: #1FBCE9!important;
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
-                <h5 class="fw-bold text-primary text-uppercase">Why Choose Us</h5>
-                <h1 class="mb-0">We Are Here to Grow Your Business Exponentially</h1>
+                
+                <h1 class="mb-0">We Are Developed Web Application , Mobile Apps and Digital maketing  </h1>
             </div>
             <div class="row g-5">
                 <div class="col-lg-4">
@@ -100,14 +113,14 @@ background-color: #1FBCE9!important;
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                                 <i class="fa fa-cubes text-white"></i>
                             </div>
-                            <h4>Best In Industry</h4>
+                            <h4>Projects Corner</h4>
                             <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.6s">
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                                 <i class="fa fa-award text-white"></i>
                             </div>
-                            <h4>Award Winning</h4>
+                            <h4>CMS Websites</h4>
                             <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
                         </div>
                     </div>
@@ -123,19 +136,22 @@ background-color: #1FBCE9!important;
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                                 <i class="fa fa-users-cog text-white"></i>
                             </div>
-                            <h4>Professional Staff</h4>
+                            <h4>Mobile Apps development</h4>
                             <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.8s">
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                                 <i class="fa fa-phone-alt text-white"></i>
                             </div>
-                            <h4>24/7 Support</h4>
+                            <h4>SSM</h4>
                             <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
                         </div>
                     </div>
                 </div>
+				
+				
             </div>
+			
         </div>
     </div>
 	  

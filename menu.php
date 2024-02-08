@@ -67,7 +67,7 @@ $activeClassServices='';
    <a href="web-hosting-service-at-karimnagar.php" class="dropdown-item">Web Hosting Service</a>
 	<a href="logo-design-at-karimnagar.php" class="dropdown-item">Logo Designing</a>
 	<a href="digital-marketing-at-Karimnagar.php" class="dropdown-item">Digital Marketing</a>
-	<a href="" class="dropdown-item">SEO Service</a>
+	<a href="seo-company-at-karimnagar.php" class="dropdown-item">SEO Service</a>
 	<a href="mobile-app-development-at-karimnagar.php" class="dropdown-item">App Development</a>
 	<a href="ecommerce-website-design-at-karimnagar.php" class="dropdown-item">E-Commerce Service</a>
 	<a href="responsive-web-design-at-karimnagar.php" class="dropdown-item">Responsive Design</a>

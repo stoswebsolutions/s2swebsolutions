@@ -5,8 +5,20 @@
     <meta charset="utf-8">
     <title>About - S2S Web Solutions</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <meta content="S2S Web Solutions, Web Development in Karimnagar ,
+     Web Hosting in Karimnagar ,
+     android  app developer in karimnagar,
+     Software Development in Karimnagar ,
+     SEO Company in karimnagar ,
+     Android Development in Karimnagar ,
+      mobile app development in karimnagar,
+      digital marketing in karimnagar,
+ logo designer in karimnagar,
+ ecommerce website in Karimnagar,
+ software companies in karimnagar
+
+     web design, company, Karimnagar, web designers in Karimnagar, web hosting, freelancer, php developer in Karimnagar, wordpress, near, web designing company, best company, Website Designing Company Karimnagar, Karimnagar Website Design, Website Design Karimnagar, Web designing Karimnagar, Website Design Karimnagar, Web Design Company, web designing Services, web design, web design company Karimnagar, corporate website designing, Web Development Company Karimnagar, web designing in india, Web Designers, website designer in Karimnagar" name="keywords">
+    <meta content="S2S Web Solutions is best website design , Website development , Mobile app development and software applicatins development company in india" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
