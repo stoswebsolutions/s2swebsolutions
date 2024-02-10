@@ -5,11 +5,27 @@
     <meta charset="utf-8">
     <title>website design company at karimnagar</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+   <meta content="S2S Web Solutions, Web Development in Karimnagar ,
+     Web Hosting in Karimnagar ,
+     android  app developer in karimnagar,
+     Software Development in Karimnagar ,
+     SEO Company in karimnagar ,
+     Android Development in Karimnagar ,
+      mobile app development in karimnagar,
+      digital marketing in karimnagar,
+ logo designer in karimnagar,
+ ecommerce website in Karimnagar,
+ software companies in karimnagar
+
+     web design, company, Karimnagar, web designers in Karimnagar, web hosting, freelancer, php developer in Karimnagar, wordpress, near, web designing company, best company, Website Designing Company Karimnagar, Karimnagar Website Design, Website Design Karimnagar, Web designing Karimnagar, Website Design Karimnagar, Web Design Company, web designing Services, web design, web design company Karimnagar, corporate website designing, Web Development Company Karimnagar, web designing in india, Web Designers, website designer in Karimnagar" name="keywords">
+    <meta content="S2S Web Solutions is best website design , Website development , Mobile app development and software applicatins development company in india" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+		<link rel="manifest" href="img/site.webmanifest">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -45,26 +61,7 @@ background-color: #1FBCE9!important;
 
 
     <!-- Topbar Start -->
-    <div class="container-fluid bg-dark px-5 d-none d-lg-block">
-        <div class="row gx-0">
-            <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
-                <div class="d-inline-flex align-items-center" style="height: 45px;">
-                    <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>123 Street, New York, USA</small>
-                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+012 345 6789</small>
-                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>info@example.com</small>
-                </div>
-            </div>
-            <div class="col-lg-4 text-center text-lg-end">
-                <div class="d-inline-flex align-items-center" style="height: 45px;">
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-twitter fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-instagram fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href=""><i class="fab fa-youtube fw-normal"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include 'topbar.php'; ?>
     <!-- Topbar End -->
 
 

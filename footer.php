@@ -47,12 +47,12 @@
                                 <h3 class="text-light mb-0">Quick Links</h3>
                             </div>
                             <div class="link-animated d-flex flex-column justify-content-start">
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Meet The Team</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Latest Blog</a>
-                                <a class="text-light" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
+                                <a class="text-light mb-2" href="index.php"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
+                                <a class="text-light mb-2" href="about.php"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
+                                <a class="text-light mb-2" href="services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
+                                <a class="text-light mb-2" href="price.php"><i class="bi bi-arrow-right text-primary me-2"></i>Price</a>                                
+                                <a class="text-light" href="conatct.php"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
+								<a class="text-light mb-2" href="blog.php"><i class="bi bi-arrow-right text-primary me-2"></i>Our Blog</a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
@@ -60,12 +60,12 @@
                                 <h3 class="text-light mb-0">Popular Links</h3>
                             </div>
                             <div class="link-animated d-flex flex-column justify-content-start">
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Meet The Team</a>
-                                <a class="text-light mb-2" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Latest Blog</a>
-                                <a class="text-light" href="#"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
+                                <a class="text-light mb-2" href="website-design-company-at-Karimnagar.php"><i class="bi bi-arrow-right text-primary me-2"></i>Web Design Service</a>
+                                <a class="text-light mb-2" href="website-development-company-at-karimnagar.php"><i class="bi bi-arrow-right text-primary me-2"></i>Web Development Service</a>
+                                <a class="text-light mb-2" href="web-hosting-service-at-karimnagar.php"><i class="bi bi-arrow-right text-primary me-2"></i>Web Hosting Service</a>
+                                <a class="text-light mb-2" href="mobile-app-development-at-karimnagar.php"><i class="bi bi-arrow-right text-primary me-2"></i>Mobile App Development</a>
+                                <a class="text-light mb-2" href="logo-design-at-karimnagar.php"><i class="bi bi-arrow-right text-primary me-2"></i>Logo Design</a>
+                                <a class="text-light" href="seo-company-at-karimnagar.php"><i class="bi bi-arrow-right text-primary me-2"></i>SEO Service</a>
                             </div>
                         </div>
                     </div>
@@ -78,19 +78,56 @@
             <div class="row justify-content-end">
                 <div class="col-lg-8 col-md-6">
                     <div class="d-flex align-items-center justify-content-center" style="height: 75px;">
-                        <p class="mb-0">&copy; <a class="text-white border-bottom" href="#">S2S Websoloution</a>. All Rights Reserved. 
+                        <p class="mb-0">&copy; <a class="text-white border-bottom" href="https://s2swebsolutions.com/">S2S Websoloution</a> All Rights Reserved. 
 						
 						
-						Designed by <a class="text-white border-bottom" href="#">S2S Websoloution</a></p>
+						Designed by <a class="text-white border-bottom" href="https://s2swebsolutions.com/">S2S Websoloution</a></p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-	<script type="text/javascript">
+	<!--<script type="text/javascript">
     $('.nav-item a').click(function(event){
     event.preventDefault();
     $('.nav-item a').removeClass('active')
     $(this).addClass('active');
 });
-    </script>
+    </script>-->
+	
+	<script>
+    var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?50426';
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = url;
+    var options = {
+        "enabled": true,
+        "chatButtonSetting": {
+            "backgroundColor": "#F07724",
+            "ctaText": "",
+            "borderRadius": "25",
+            "marginLeft": "20",
+            "marginBottom": "20",
+            "marginRight": "20",
+            "position": "left"
+        },
+        "brandSetting": {
+            "brandName": "S2S Web Solutions",
+            "brandSubTitle": "Typically replies within a minute",
+            "brandImg": "https://s2swebsolutions.com/images/4b6538a44a1dfdc2b83477cd76dee98e.png",
+            "welcomeText": "Hi there!\nHow can I help you?",
+            "messageText": "Hi",
+            "backgroundColor": "#0a5f54",
+            "ctaText": "Start Chat",
+            "borderRadius": "25",
+            "autoShow": false,
+            "phoneNumber": "+919703180922"
+        }
+    };
+    s.onload = function() {
+        CreateWhatsappChatWidget(options);
+    };
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+</script>

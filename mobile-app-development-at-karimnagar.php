@@ -3,13 +3,16 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Mobile App Development at Karimnagar</title>
+    <title>Mobile App Development at karimnagar</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Mobile App Development at Karimnagar" name="keywords">
     <meta content="Mobile App Development at Karimnagar" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+   <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+		<link rel="manifest" href="img/site.webmanifest">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

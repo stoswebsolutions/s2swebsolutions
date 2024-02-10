@@ -21,7 +21,10 @@
     <meta content="S2S Web Solutions is best website design , Website development , Mobile app development and software applicatins development company in india" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+		<link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+		<link rel="manifest" href="img/site.webmanifest">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -73,8 +76,8 @@ background-color: #1FBCE9!important;
                         <div class="p-3" style="max-width: 900px;">
                             <h2 class="text-warning text-uppercase mb-3 animated slideInDown">S2S Web Solutions</h2>
                             <h1 class="display-1 text-white mb-md-4 animated zoomIn">DO YOU NEED A <span style="color:#F07724;">WEBSITE</span> </h1>
-                            <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
-                            <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
+                            <a href="contact.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
+                            <a href="contact.php" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                         </div>
                     </div>
                 </div>
@@ -370,7 +373,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
     </div>
 	 <div class="row">
                <div class="col-md-12 text-center">
-                  <a href="projects.html" class="btn btn-primary tw-mt-140">View All</a>
+                  <a href="services.php" class="btn btn-primary tw-mt-140">View All</a>
                </div>
             </div>
     <!-- Service End -->
