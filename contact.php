@@ -7,36 +7,30 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="contact, S2S Web Solutions" name="keywords">
     <meta content="contact page in S2S Web SolutionsS2S Web Solutions" name="description">
-
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
-		<link rel="manifest" href="img/site.webmanifest">
-
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+    <link rel="manifest" href="img/site.webmanifest">
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Rubik:wght@400;500;600;700&display=swap" rel="stylesheet">
-
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
-
     <!-- Libraries Stylesheet -->
     <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="lib/animate/animate.min.css" rel="stylesheet">
-
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
-<style>
-.bg-primary2 {
-background-color: #1FBCE9!important;
-}
-</style>	
+    <style>
+        .bg-primary2 {
+            background-color: #1FBCE9 !important;
+        }
+    </style>
 </head>
 
 <body>
@@ -45,17 +39,12 @@ background-color: #1FBCE9!important;
         <div class="spinner"></div>
     </div>
     <!-- Spinner End -->
-
-
     <!-- Topbar Start -->
     <?php include 'topbar.php'; ?>
     <!-- Topbar End -->
-
-
     <!-- Navbar Start -->
     <div class="container-fluid position-relative p-0">
-         <?php include 'menu.php'; ?>
-
+        <?php include 'menu.php'; ?>
         <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
@@ -68,8 +57,6 @@ background-color: #1FBCE9!important;
         </div>
     </div>
     <!-- Navbar End -->
-
-
     <!-- Full Screen Search Start -->
     <div class="modal fade" id="searchModal" tabindex="-1">
         <div class="modal-dialog modal-fullscreen">
@@ -87,8 +74,6 @@ background-color: #1FBCE9!important;
         </div>
     </div>
     <!-- Full Screen Search End -->
-
-
     <!-- Contact Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
@@ -154,27 +139,17 @@ background-color: #1FBCE9!important;
                     </form>
                 </div>
                 <div class="col-lg-6 wow slideInUp" data-wow-delay="0.6s">
-                    
-						<iframe class="position-relative rounded w-100 h-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60561.207575799475!2d79.09194835205984!3d18.434882034551038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bccd910bcf48931%3A0x4889b0398ed69f07!2sKarimnagar%2C%20Telangana!5e0!3m2!1sen!2sin!4v1707147134258!5m2!1sen!2sin"  style="min-height: 350px;border:0;" allowfullscreen="" loading="lazy" tabindex="0"></iframe>
-						
+                    <iframe class="position-relative rounded w-100 h-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60561.207575799475!2d79.09194835205984!3d18.434882034551038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bccd910bcf48931%3A0x4889b0398ed69f07!2sKarimnagar%2C%20Telangana!5e0!3m2!1sen!2sin!4v1707147134258!5m2!1sen!2sin" style="min-height: 350px;border:0;" allowfullscreen="" loading="lazy" tabindex="0"></iframe>
                 </div>
             </div>
         </div>
     </div>
     <!-- Contact End -->
-
-
-    
-
     <!-- Footer Start -->
-     <?php include 'footer.php'; ?>
+    <?php include 'footer.php'; ?>
     <!-- Footer End -->
-
-
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top"><i class="bi bi-arrow-up"></i></a>
-
-
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
@@ -183,7 +158,6 @@ background-color: #1FBCE9!important;
     <script src="lib/waypoints/waypoints.min.js"></script>
     <script src="lib/counterup/counterup.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
 </body>

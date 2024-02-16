@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>S2S Web Solutions</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-   <meta content="S2S Web Solutions, Web Development in Karimnagar ,
+    <meta content="S2S Web Solutions, Web Development in Karimnagar ,
      Web Hosting in Karimnagar ,
      android  app developer in karimnagar,
      Software Development in Karimnagar ,
@@ -16,39 +16,32 @@
  logo designer in karimnagar,
  ecommerce website in Karimnagar,
  software companies in karimnagar
-
      web design, company, Karimnagar, web designers in Karimnagar, web hosting, freelancer, php developer in Karimnagar, wordpress, near, web designing company, best company, Website Designing Company Karimnagar, Karimnagar Website Design, Website Design Karimnagar, Web designing Karimnagar, Website Design Karimnagar, Web Design Company, web designing Services, web design, web design company Karimnagar, corporate website designing, Web Development Company Karimnagar, web designing in india, Web Designers, website designer in Karimnagar" name="keywords">
     <meta content="S2S Web Solutions is best website design , Website development , Mobile app development and software applicatins development company in india" name="description">
-
     <!-- Favicon -->
-		<link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
-		<link rel="manifest" href="img/site.webmanifest">
-
+    <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+    <link rel="manifest" href="img/site.webmanifest">
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Rubik:wght@400;500;600;700&display=swap" rel="stylesheet">
-
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
-
     <!-- Libraries Stylesheet -->
     <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="lib/animate/animate.min.css" rel="stylesheet">
-
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
-<style>
-.bg-primary2 {
-background-color: #1FBCE9!important;
-}
-</style>
+    <style>
+        .bg-primary2 {
+            background-color: #1FBCE9 !important;
+        }
+    </style>
 </head>
 
 <body style="overflow-x:hidden; ">
@@ -57,17 +50,12 @@ background-color: #1FBCE9!important;
         <div class="spinner"></div>
     </div>
     <!-- Spinner End -->
-
-
     <!-- Topbar Start -->
     <?php include 'topbar.php'; ?>
     <!-- Topbar End -->
-
-
     <!-- Navbar & Carousel Start -->
     <div class="container-fluid position-relative p-0">
         <?php include 'menu.php'; ?>
-
         <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-interval="1000">
@@ -87,45 +75,39 @@ background-color: #1FBCE9!important;
                         <div class="p-3" style="max-width: 900px;">
                             <h2 class="text-warning text-uppercase mb-3 animated slideInDown">Build a Website </h2>
                             <h1 class="display-1 text-white mb-md-4 animated zoomIn">Just Rs.4,999</h1>
-							<p >Website Design Development Service Let our experts build an amazing site for you. As low as Rs.4,999/yr.*
-							* Ready in as few as 5 business days
-							* Includes free domain, for 1 year</p>
+                            <p>Website Design Development Service Let our experts build an amazing site for you. As low as Rs.4,999/yr.*
+                                * Ready in as few as 5 business days
+                                * Includes free domain, for 1 year</p>
                             <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
                             <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                         </div>
                     </div>
                 </div>
-				
-				<div class="carousel-item" data-interval="1000">
+                <div class="carousel-item" data-interval="1000">
                     <img class="w-100" src="img/slider4.png" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h2 class="text-warning text-uppercase mb-3 animated slideInDown"><span>We build Wordpress </span></h2>
                             <h1 class="display-1 text-white mb-md-4 animated zoomIn">at just Rs.8,000 </h1>
-							<p>We use Word Press to create E-Commerce websites.
-Word Press supports plug-in modules & Third Party Plug-In, using which we set our own special functions</p>
+                            <p>We use Word Press to create E-Commerce websites.
+                                Word Press supports plug-in modules & Third Party Plug-In, using which we set our own special functions</p>
                             <a href="quote.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
                             <a href="contact.php" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                         </div>
                     </div>
                 </div>
-				
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
-                data-bs-slide="prev">
+            <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
             </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#header-carousel"
-                data-bs-slide="next">
+            <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
             </button>
         </div>
     </div>
     <!-- Navbar & Carousel End -->
-
-
     <!-- Full Screen Search Start -->
     <div class="modal fade" id="searchModal" tabindex="-1">
         <div class="modal-dialog modal-fullscreen">
@@ -143,8 +125,6 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
         </div>
     </div>
     <!-- Full Screen Search End -->
-
-
     <!-- Facts Start -->
     <div class="container-fluid facts py-5 pt-lg-0">
         <div class="container py-5 pt-lg-0">
@@ -186,8 +166,6 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
         </div>
     </div>
     <!-- Facts Start -->
-
-
     <!-- About Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
@@ -195,19 +173,18 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                 <div class="col-lg-7">
                     <div class="section-title position-relative pb-3 mb-5">
                         <h5 class="fw-bold text-primary text-uppercase">About Us</h5>
-                       <h1 class="mb-0">S2S WEB SOLUTIONS AT KARIMNAGAR</h1>
+                        <h1 class="mb-0">S2S WEB SOLUTIONS AT KARIMNAGAR</h1>
                     </div>
-				<p class="mb-4">We offer the best website design and development services in Karimnagar to help clients improve their online presence using latest technology. Our solutions include CMS implementations, custom web programming, mobile-friendly, responsive websites, dynamic websites, eCommerce websites, web 2.0 programming, and custom database applications. Our web designers and developers collaborate to achieve your business objectives.
-				With the help of project management and quality assurance designed to enhance the experience of working with S2S Web solutions.</p>
+                    <p class="mb-4">We offer the best website design and development services in Karimnagar to help clients improve their online presence using latest technology. Our solutions include CMS implementations, custom web programming, mobile-friendly, responsive websites, dynamic websites, eCommerce websites, web 2.0 programming, and custom database applications. Our web designers and developers collaborate to achieve your business objectives.
+                        With the help of project management and quality assurance designed to enhance the experience of working with S2S Web solutions.</p>
                     <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
                             <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>10 Years of Experience</h5>
                             <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Unique project ideas for web development</h5>
                         </div>
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
-                            
                             <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Reasonable Price</h5>
-							<h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>24/7 Support</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>24/7 Support</h5>
                         </div>
                     </div>
                     <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
@@ -230,8 +207,6 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
         </div>
     </div>
     <!-- About End -->
-
-
     <!-- Features Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
@@ -251,7 +226,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.6s">
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
-                              <i class="fa fa-arrow-right text-white"></i>
+                                <i class="fa fa-arrow-right text-white"></i>
                             </div>
                             <h4>Step 3.Find Ideas</h4>
                             <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
@@ -285,8 +260,6 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
         </div>
     </div>
     <!-- Features Start -->
-
-
     <!-- Service Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
@@ -355,7 +328,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                         </a>
                     </div>
                 </div>
-				<div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
                             <i class="fa fa-search text-white"></i>
@@ -367,18 +340,15 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                         </a>
                     </div>
                 </div>
-               
             </div>
         </div>
     </div>
-	 <div class="row">
-               <div class="col-md-12 text-center">
-                  <a href="services.php" class="btn btn-primary tw-mt-140">View All</a>
-               </div>
-            </div>
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <a href="services.php" class="btn btn-primary tw-mt-140">View All</a>
+        </div>
+    </div>
     <!-- Service End -->
-    
-
     <!-- Pricing Plan Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
@@ -395,12 +365,10 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                         </div>
                         <div class="p-5 pt-0">
                             <h1 class="display-5 mb-3">
-                                <small class="align-top" style="font-size: 22px; line-height: 45px;">Rs</small> 4,999<small
-                                    class="align-bottom" style="font-size: 16px; line-height: 40px;"></small>
+                                <small class="align-top" style="font-size: 22px; line-height: 45px;">Rs</small> 4,999<small class="align-bottom" style="font-size: 16px; line-height: 40px;"></small>
                             </h1>
-                            
                             <div class="d-flex justify-content-between mb-3"><span>Bootstrap v5</span><i class="fa fa-check text-primary pt-1"></i></div>
-							<div class="d-flex justify-content-between mb-3"><span>Responsive Design</span><i class="fa fa-check text-primary pt-1"></i></div>
+                            <div class="d-flex justify-content-between mb-3"><span>Responsive Design</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <div class="d-flex justify-content-between mb-3"><span>SEO Friendly URLS</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <div class="d-flex justify-content-between mb-2"><span>24/7 Support</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <a href="contact.php" class="btn btn-primary py-2 px-4 mt-4">Order Now</a>
@@ -415,16 +383,13 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                         </div>
                         <div class="p-5 pt-0">
                             <h1 class="display-5 mb-3">
-                                <small class="align-top" style="font-size: 22px; line-height: 45px;">Rs</small>10,999<small
-                                    class="align-bottom" style="font-size: 16px; line-height: 40px;"></small>
+                                <small class="align-top" style="font-size: 22px; line-height: 45px;">Rs</small>10,999<small class="align-bottom" style="font-size: 16px; line-height: 40px;"></small>
                             </h1>
-                            
                             <div class="d-flex justify-content-between mb-3"><span>Bootstrap v5</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <div class="d-flex justify-content-between mb-3"><span>Responsive Layout</span><i class="fa fa-check text-primary pt-1"></i></div>
-							<div class="d-flex justify-content-between mb-3"><span>Live Chat Integration</span><i class="fa fa-check text-primary pt-1"></i></div>
-                            
-							<div class="d-flex justify-content-between mb-3"><span>Payment Gateway</span><i class="fa fa-check text-primary pt-1"></i></div>
-							<div class="d-flex justify-content-between mb-2"><span>24/7 Support</span><i class="fa fa-check text-primary pt-1"></i></div>
+                            <div class="d-flex justify-content-between mb-3"><span>Live Chat Integration</span><i class="fa fa-check text-primary pt-1"></i></div>
+                            <div class="d-flex justify-content-between mb-3"><span>Payment Gateway</span><i class="fa fa-check text-primary pt-1"></i></div>
+                            <div class="d-flex justify-content-between mb-2"><span>24/7 Support</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <a href="contact.php" class="btn btn-primary py-2 px-4 mt-4">Order Now</a>
                         </div>
                     </div>
@@ -437,13 +402,11 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                         </div>
                         <div class="p-5 pt-0">
                             <h1 class="display-5 mb-3">
-                                <small class="align-top" style="font-size: 22px; line-height: 45px;">Rs</small>18,999<small
-                                    class="align-bottom" style="font-size: 16px; line-height: 40px;"></small>
+                                <small class="align-top" style="font-size: 22px; line-height: 45px;">Rs</small>18,999<small class="align-bottom" style="font-size: 16px; line-height: 40px;"></small>
                             </h1>
-                           
                             <div class="d-flex justify-content-between mb-3"><span>Bootstrap v5</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <div class="d-flex justify-content-between mb-3"><span>Responsive Layout</span><i class="fa fa-check text-primary pt-1"></i></div>
-							 <div class="d-flex justify-content-between mb-3"><span>Live Chat Integration</span><i class="fa fa-check text-primary pt-1"></i></div>
+                            <div class="d-flex justify-content-between mb-3"><span>Live Chat Integration</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <div class="d-flex justify-content-between mb-2"><span>24/7 Support</span><i class="fa fa-check text-primary pt-1"></i></div>
                             <a href="contact.php" class="btn btn-primary py-2 px-4 mt-4">Order Now</a>
                         </div>
@@ -452,14 +415,12 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
             </div>
         </div>
     </div>
-	 <div class="row">
-               <div class="col-md-12 text-center">
-                  <a href="price.php" class="btn btn-primary tw-mt-140">All Price</a>
-               </div>
-            </div>
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <a href="price.php" class="btn btn-primary tw-mt-140">All Price</a>
+        </div>
+    </div>
     <!-- Pricing Plan End -->
-
-
     <!-- Quote Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
@@ -520,8 +481,6 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
         </div>
     </div>
     <!-- Quote End -->
-
-
     <!-- Testimonial Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
@@ -532,7 +491,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s">
                 <div class="testimonial-item bg-light my-4">
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                        <img class="img-fluid rounded" src="img/testimonial-1.jpg" style="width: 60px; height: 60px;" >
+                        <img class="img-fluid rounded" src="img/testimonial-1.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Client Name</h4>
                             <small class="text-uppercase">Profession</small>
@@ -544,7 +503,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                 </div>
                 <div class="testimonial-item bg-light my-4">
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                        <img class="img-fluid rounded" src="img/testimonial-2.jpg" style="width: 60px; height: 60px;" >
+                        <img class="img-fluid rounded" src="img/testimonial-2.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Client Name</h4>
                             <small class="text-uppercase">Profession</small>
@@ -556,7 +515,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                 </div>
                 <div class="testimonial-item bg-light my-4">
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                        <img class="img-fluid rounded" src="img/testimonial-3.jpg" style="width: 60px; height: 60px;" >
+                        <img class="img-fluid rounded" src="img/testimonial-3.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Client Name</h4>
                             <small class="text-uppercase">Profession</small>
@@ -568,7 +527,7 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
                 </div>
                 <div class="testimonial-item bg-light my-4">
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                        <img class="img-fluid rounded" src="img/testimonial-4.jpg" style="width: 60px; height: 60px;" >
+                        <img class="img-fluid rounded" src="img/testimonial-4.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
                             <h4 class="text-primary mb-1">Client Name</h4>
                             <small class="text-uppercase">Profession</small>
@@ -582,10 +541,8 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
         </div>
     </div>
     <!-- Testimonial End -->
-
-
     <!-- Team Start -->
-   <!-- <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <!-- <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Team Members</h5>
@@ -647,8 +604,6 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
         </div>
     </div>-->
     <!-- Team End -->
-
-
     <!-- Blog Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
@@ -712,8 +667,6 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
         </div>
     </div>
     <!-- Blog Start -->
-
-
     <!-- Vendor Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5 mb-5">
@@ -733,17 +686,11 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
         </div>
     </div>
     <!-- Vendor End -->
-    
-
     <!-- Footer Start -->
     <?php include 'footer.php'; ?>
     <!-- Footer End -->
-
-
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top"><i class="bi bi-arrow-up"></i></a>
-
-
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
@@ -752,7 +699,6 @@ Word Press supports plug-in modules & Third Party Plug-In, using which we set ou
     <script src="lib/waypoints/waypoints.min.js"></script>
     <script src="lib/counterup/counterup.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
 </body>
